@@ -1,7 +1,5 @@
 # 🌍 Disaster Response and Management System (DRAMS)
 
-![DRAMS Banner](https://via.placeholder.com/1000x300?text=Disaster+Response+and+Management+System)
-
 🚨 **The speed of response during natural disasters saves lives.** DRAMS is here to empower communities, aid organizations, and authorities by providing real-time insights, early warnings, and efficient resource management for disaster situations.
 
 ---
